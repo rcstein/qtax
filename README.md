@@ -38,7 +38,7 @@
 
 * Corporation Net Income Taxes are taxes on corporations and unincorporated businesses (when taxed separately from individual income), measured by net income, whether on corporations in general or on specific kinds of corporations, such as financial institutions. Includes “franchise” or “license” taxes where such taxes are calculated based on net income. 
 
-* License taxes are those enacted as a condition to exercise a business or nonbusiness privilege, includes related fees and generally taxes on proeprty levied on basis other than assessed value. 
+* License taxes are those enacted as a condition to exercise a business or nonbusiness privilege, includes related fees and generally taxes on property levied on basis other than assessed value. 
 
 * Death and gift taxes are taxes imposed on the transfer of property at death, in contemplation of death, or as a gift.
 
@@ -47,7 +47,9 @@
 * Severance taxes are taxes on the removal of natural resources from land or water by the quantity of products removed or sold. 
 
 
-*For tax categories prior to 2005, see the Census Bureau's 1992 Classification Manual at https://www.census.gov/topics/public-sector/about/classification-manual.html*
+*The tax category definitions are largely unchanged from the system used prior to 2005. Consult the Census Bureau’s 1992 and 2006 Classification Manuals https://www.census.gov/topics/public-sector/about/classification-manual.html
+for more detail.*
+
 
 ##  Data
 
