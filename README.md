@@ -12,7 +12,7 @@
 
 **Categories** are imposed by the Census Bureau and do not necessarily reflect how the states and localities categorize the taxes themselves. 
 
-### Tax categories (after 2006): 
+### Tax categories (after 2005): 
 
 * Property taxes include general property taxes (e.g. land, cars), special taxes on certain types of property, and taxes based on income produced by property.
 
@@ -45,6 +45,9 @@
 * Documentary and stock transfer taxes are taxes on the recording, registration, and transfer of documents.
 
 * Severance taxes are taxes on the removal of natural resources from land or water by the quantity of products removed or sold. 
+
+
+*For tax categories prior to 2005, see the Census Bureau's 1992 Classification Manual at https://www.census.gov/topics/public-sector/about/classification-manual.html*
 
 ##  Data
 
